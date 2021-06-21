@@ -1,6 +1,6 @@
 # Calculator
 
-this is a Calculator  I created with HTML5, CSS3 and JAVASCRIPT. 
+This is a Calculator  I created with HTML5, CSS3 and JAVASCRIPT. 
 By clicking https://klaus-mc.github.io/Calculator/[here] you can discover the functionalities
 
 image:Calculator.png?raw=true[Calculator]
